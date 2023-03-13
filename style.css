@@ -1,6 +1,6 @@
 .line {
     background-color: teal;
-    height: 10px;
+    height: 3px;
     margin-top: 3rem;
 }
 .icon {
@@ -20,12 +20,6 @@
 }
 .footer {
     color:white;
-}
-@media (min-width:768px) {
-    .position-left {
-        left:-100px;
- 
-    }
 }
 @media (min-width:992px) {
     .line-none {
